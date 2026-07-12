@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arun635601/Arun635601/main/banner.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">Full Stack Developer | Flask | UI/UX Designer</h3>
 
