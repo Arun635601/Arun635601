@@ -45,3 +45,6 @@
 
 * LinkedIn: Add your link
 * Portfolio: Add your site
+* <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Flask+Developer;UI%2FUX+Designer;Freelancer;Open+to+Work" />
+</p>
